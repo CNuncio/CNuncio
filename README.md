@@ -16,14 +16,4 @@ Skills: JS / HTML / CSS/ JQUERY/ MYSQL/ JAVA/ SPRING
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/CNuncio)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/christina-nuncio-4444a0171//)  
 
-<a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=https://github.com/CNuncio)](https://github.com/anuraghazra/github-readme-stats)
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=https://github.com/CNuncio&show_icons=true)  
-
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=https://github.com/CNuncio)  
-
-![GitHub metrics](https://metrics.lecoq.io/https://github.com/CNuncio)  
-
 ![Profile views](https://gpvc.arturio.dev/https://github.com/CNuncio)  
