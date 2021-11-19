@@ -1,16 +1,14 @@
 ### Hi there 👋
+### Hi there 👋, My name is Christina Nuncio.
+#### I am currently a student at Codeup for web development
+![I am currently a student at Codeup for web development](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
-<!--
-**CNuncio/CNuncio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a new software developer who enjoys the more creative side of coding and programming. I thoroughly enjoy working through front end problems and love web design and website aesthetics.  
 
-Here are some ideas to get you started:
+Skills: JS / HTML / CSS/ JQUERY/ MYSQL/ JAVA/ SPRING
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on this page. 
+
+
+
+
